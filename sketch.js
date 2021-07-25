@@ -1,6 +1,6 @@
 function setup() {
-  // create the canvas (800px wide, 600px high)
-  createCanvas(800, 600);
+  // create the canvas (800px wide, 800px high)
+  createCanvas(800, 800);
 
   // make the text nice and big - adjust the size parameter
   // to make *your* name fit nicely on the nametag
