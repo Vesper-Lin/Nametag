@@ -4,7 +4,7 @@ function setup() {
 
   // make the text nice and big - adjust the size parameter
   // to make *your* name fit nicely on the nametag
-  textSize(150);
+  textSize(130);
 
   // draw a border to help you see the size
   // this isn't compulsory (remove this code if you like)
@@ -15,8 +15,10 @@ function setup() {
 function draw() {
   // your cool nametag code goes in this draw function
 
+  square(30, 20, 55);
+
   // replace "Name" with your name!
-  text("Name", 100, height-100);
+  text("Yuxuan Lin", 100, height-100);
 }
 
 // when you hit the spacebar, what's currently on the canvas will be saved (as a
