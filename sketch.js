@@ -98,13 +98,13 @@ function draw() {
 
   fill(color_base);
 
-  stroke(color_G);
+  stroke(color_E);
   rect(0, 400, 100);
   rect(700, 400, 100);
   rect(600, 100, 100);
   rect(600, 600, 100);
 
-  stroke(color_G);
+  stroke(color_E);
   arc(100, 500, 200, 200, PI, PI + HALF_PI);
   arc(700, 400, 200, 200, 0, HALF_PI);
   arc(600, 200, 200, 200, PI + HALF_PI, TWO_PI);
