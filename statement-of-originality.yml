@@ -1,10 +1,16 @@
-# for information & examples on how to fill this out correctly, see
-# https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
-
 declaration: >-
   I declare that everything I have submitted in this assignment is entirely my
   own work, with the following exceptions:
 
-# sign *your* name and uid here
+code:
+  - comment: Generate a random integer between min (included) and max (included)
+    url: https://stackoverflow.com/questions/4959975/generate-random-number-between-two-numbers-in-javascript
+    licence: CC BY-SA 4.0
+
+assets:
+  - comment: Inter Black font
+    url: https://fonts.google.com/specimen/Inter
+    licence: Open Font License
+
 name: Yuxuan Lin
 uid: u6828533
