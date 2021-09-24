@@ -1,3 +1,5 @@
-# COMP1720/6720 assignment 1 template
+<p align="center"><img height="300" src="https://github.com/Vesper-Lin/Nametag/blob/main/nametag.png" alt="nametag"></p>
 
-https://cs.anu.edu.au/courses/comp1720/deliverables/02-name-tag/
+## Nametag
+
+ANU COMP1720 : Art and Interaction Computing - Assignment 1
