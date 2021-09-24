@@ -1,4 +1,4 @@
-<p align="center"><img height="400" src="https://github.com/Vesper-Lin/Nametag/blob/main/nametag.png" alt="nametag"></p>
+<p align="center"><img height="600" src="https://github.com/Vesper-Lin/Nametag/blob/main/nametag.png" alt="nametag"></p>
 
 ## Nametag
 
