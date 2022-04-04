@@ -1,5 +1,5 @@
 <p align="center"><img height="500" src="https://github.com/Vesper-Lin/Nametag/blob/main/nametag.png" alt="nametag"></p>
 
-## Nametag
+## nametag
 
-ANU COMP1720 : Art and Interaction Computing - Assignment 1
+A generative p5.js artwork that could be used as a name tag (ANU COMP1720 assignment).
